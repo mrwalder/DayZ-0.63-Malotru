@@ -5,7 +5,6 @@ Chat Admin Command
 
  - NOTE: Warning test phase! I am not a developer it's just fun for me
  - NOTE: Edit L-60: Optional Spawn admin vybor! your Steam ID
- - NOTE: Commands [Wiki](https://github.com/Malotruu/DayZ-0.63-Malotru/wiki)  
 
 
 ### Installation
@@ -20,7 +19,7 @@ Chat Admin Command
 	> #login yourpasswordAdmin
  
  
-3. Ingame, Enter the commands in the chat
+3. Ingame, Enter the ***[commands](https://github.com/Malotruu/DayZ-0.63-Malotru/wiki)*** in the chat
 
 	> !heal !offroad !camera…
   
