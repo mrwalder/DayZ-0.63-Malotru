@@ -4,6 +4,7 @@ Chat Admin Command
 =================================
 
  - NOTE: Warning test phase! I am not a developer it's just fun for me
+ - NOTE: Edit L-60: Optional Spawn admin vybor! your Steam ID
  - NOTE: Commands [Wiki](https://github.com/Malotruu/DayZ-0.63-Malotru/wiki)  
 
 
@@ -23,15 +24,6 @@ Chat Admin Command
 
 	> !heal !offroad !camera…
   
-
-
-   ### Optional Configuration.
-	
-	> ~~~~java
-	> L-60:     SteamId_Adminx = "00000000000000000";     → Spawn admin vybor! your Steam ID
-	> ~~~~
-
- 
 
 
  
