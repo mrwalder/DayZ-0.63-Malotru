@@ -10,10 +10,10 @@ Chat Admin Command
 
 ### Installation
 
-1. Download and Place the ***init.c***
+1. ***[Download](https://github.com/Malotruu/DayZ-0.63-Malotru/archive/master.zip)*** and Extract ***init.c*** to your mission folder
 
 	> \DayZServer\mpmissions\dayzOffline.chernarusplus
-  
+   
   
 2. Ingame, login in the chat with your administrator password
 
