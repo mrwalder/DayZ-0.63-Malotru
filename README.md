@@ -24,12 +24,27 @@ Chat Admin Command
 	> !heal !offroad !camera…
   
 
-### Optional Configuration
 
-1. Spawn admin vybor! your Steam ID
+   ### Optional Configuration.
+	
+	> ~~~~java
+	> L-60:     SteamId_Adminx = "00000000000000000";     → Spawn admin vybor! your Steam ID
+	> ~~~~
 
-	> L-60:     string SteamId_Adminx = "00000000000000000";
+	> ~~~~java
+	> L-113:    int Spawned_Canis    = 15;                → Number of Canis lupus
+	> ~~~~
+	
+	> ~~~~java
+	> L-114:    int Spawned_Horde    = 50;                → Number of Zombie
+	> ~~~~
  
+	> ~~~~java
+	> L-115:    int Spawned_Animals  = 25;                → Number of Animals
+	> ~~~~ 
+ 
+
+
  
 ### Bugs
 
