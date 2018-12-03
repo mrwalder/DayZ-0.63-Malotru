@@ -3,9 +3,8 @@
 Chat Admin Command
 =================================
 
- - NOTE: Attention test phase! I am not a developer it's just fun for me
- - NOTE: Edit L - 60 *Optional spawn admin vybor! your Steam ID
- - NOTE: Commands [Wiki](https://github.com/Malotruu/test/wiki)  
+ - NOTE: Warning test phase! I am not a developer it's just fun for me
+ - NOTE: Commands [Wiki](https://github.com/Malotruu/DayZ-0.63-Malotru/wiki)  
 
 
 ### Installation
@@ -25,8 +24,15 @@ Chat Admin Command
 	> !heal !offroad !camera…
   
 
+### Optional Configuration
+
+1. Spawn admin vybor! your Steam ID
+
+	> L-60:     string SteamId_Adminx = "00000000000000000";
+ 
+ 
 ### Bugs
 
- - Please report any bugs [here](https://github.com/Malotruu/test/issues).
+ - Please report any bugs [here](https://github.com/Malotruu/DayZ-0.63-Malotru/issues).
  
        * Command  Teleport   Get out of the vehicle first.
